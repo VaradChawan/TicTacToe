@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TicTatToe</string>
+
+    <string name="textString">Tic Tat Toe</string>
+
+    <string name="player1score">Player 1 : 0</string>
+    <string name="player2score">Player 2 : 0</string>
+    <string name="resetBtn">Reset</string>
+
+</resources>
